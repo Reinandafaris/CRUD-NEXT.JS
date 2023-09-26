@@ -10,7 +10,7 @@ const Hero = () => {
         <p className="py-5 text-xl">Ini Adalah Aplikasi CRUD - NEXT.JS</p>
         <Link href="/products">
           <button type="button" className="btn">
-            Mulai
+            Mulai!
           </button>
         </Link>
       </div>
